@@ -1,0 +1,34 @@
+Stand/RentACar Leiriense
+
+---------------------
+
+Requisitos:
+
+___Secção Utilizador___
+
+Criar perfil de utilizador (Nome, Palavra-Passe, Idade, Endereço, Contacto)
+Gestão de perfil de utilizador (Mudar os dados/Apagar conta)
+Cronograma de atividade do Utilizador (Carros alugados/comprados, estatísticas)
+
+___Secção Carros___
+
+Inserir carro no sistema
+Retirar carro do sistema
+Registar problemas nos carros e torna-los irrequisitáveis temporáriamente.
+Levantar as suspensões temporarárias dos carros (ponto anterior).
+
+___Secção Consulta___
+
+Pesquisar Carros (Disponíveis, indisponíveis, "disponíveis em breve")
+
+Estatísticas de venda de veículos (Marca, Modelo, Preço Médio, Kilometragem por Intervalo)
+Estatísticas de aluguer (Específico, Marca, Preço Médio)
+
+Consultar histórico de atividades
+
+___Secção Registo___
+
+Registar compra de um carro
+Registar o aluguer de um carro
+
+Registar atividades
